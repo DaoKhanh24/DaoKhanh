@@ -1,0 +1,22 @@
+﻿/* Các xử lý riêng cho trang WEB.html */
+.logoimg1 {
+	height:60px; 
+	border-radius:50%;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+
+}
+.logoimg2 { 
+	height:30px; 
+	border-radius:50%;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+}
+.bgcover { 
+	height:100%;
+	width: 100%;
+}
+.featureimg { 
+	height: 200px; 
+	width: 200px; 
+}
